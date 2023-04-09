@@ -5,7 +5,7 @@ function AboutCompany() {
     return (
         <div>
             <Heading/> {/* Заголовок и кнопка справа */}
-            <div className='raw'>
+            <div className='d-flex raw mt-5'>
                 <General/>  {/* Основная информация вроде названия, типа и телефона */}
                 <Addresses/> {/* Список доступных адресов заведений */}
             </div>
