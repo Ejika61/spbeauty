@@ -10,9 +10,9 @@ const WrapperInput = styled.div`
 const Input = styled.input`
     outline: none;
     border-radius: 24px;
-    border: solid #152842 1px;
+    border: solid #E2E8F0 1px;
     background-color: #F8FAFC;
-    color: #152842;
+    color: #E2E8F0;
     width: 100%;
     &:hover {
         background: linear-gradient(180deg, #DFEAF1 0%, #CFDDE8 100%);
