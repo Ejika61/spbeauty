@@ -7,9 +7,9 @@ function AboutCompany() {
             <Heading/> {/* Заголовок и кнопка справа */}
             <div className='d-flex raw mt-5'>
                 <General/>  {/* Основная информация вроде названия, типа и телефона */}
-                <div className='col-4'></div>
+                <div className='col'></div>
                 <Addresses/> {/* Список доступных адресов заведений */}
-                <div className='col-4'></div>
+                <div className='col'></div>
             </div>
         </div>
     );
