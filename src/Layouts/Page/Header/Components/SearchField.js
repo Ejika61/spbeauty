@@ -18,7 +18,7 @@ const Input = styled.input`
         background: #F8FAFC 80%;
     }
     &:focus {
-        background: #F8FAFC;
+        background: white;
     }
 `;
 
