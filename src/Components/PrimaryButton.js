@@ -12,7 +12,7 @@ function PrimaryButton(props) {
         min-width: ${minWidth};
         color: white;
         &:hover {
-            background: #3B82F6 80%;
+            background: rgba(59,130,246,0.8);
         }
         &:active {
             background: #0F172A;
