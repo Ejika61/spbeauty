@@ -15,7 +15,7 @@ const Input = styled.input`
     color: #E2E8F0;
     width: 100%;
     &:hover {
-        background: #F8FAFC 80%;
+        background: rgba(248,250,252,0.8);
     }
     &:focus {
         background: white;
