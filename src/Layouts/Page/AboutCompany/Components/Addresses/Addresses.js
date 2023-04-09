@@ -2,10 +2,10 @@ import PrimaryButton from "../../../../../Components/PrimaryButton";
 import SecondaryButton from "../../../../../Components/SecondaryButton";
 import ListElement from "./ListElement";
 
-const
+const Input = styled.div`
     border-radius: 24px;
     border: solid #E2E8F0 1px;
-;
+`;
 
 function Addresses() {
     return (
