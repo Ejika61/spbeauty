@@ -11,7 +11,7 @@ function SecondaryButton(props) {
         min-width: ${minWidth};
         color: #152842;
         &:hover {
-            background: #152842;
+            background: rgba(255,255,255,0.6);
         }
         &:active {
             background: rgba(255,255,255,0.6);
