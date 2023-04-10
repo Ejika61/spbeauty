@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Input = styled.input`
+const Input = styled.caption`
     outline: none;
     border-radius: 24px;
     border: solid #E2E8F0 1px;
