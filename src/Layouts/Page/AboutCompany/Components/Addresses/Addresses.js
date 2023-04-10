@@ -16,5 +16,4 @@ function Addresses() {
         </div>
     );
 }
-
 export default Addresses;
