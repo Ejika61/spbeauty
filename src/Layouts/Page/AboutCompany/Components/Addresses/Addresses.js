@@ -13,10 +13,6 @@ function Addresses() {
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
                 <SecondaryButton>Добавить филиал</SecondaryButton>
             </div>
-            <style>
-            border-radius: 24px;
-            border: solid #E2E8F0 1px;
-            </style> 
         </div>
     );
 }
