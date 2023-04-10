@@ -11,8 +11,8 @@ function Addresses() {
             <div className='d-inline-flex flex-column gap-3'>
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
-                <SecondaryButton>Добавить филиал</SecondaryButton>
             </div>
+            <SecondaryButton>Добавить филиал</SecondaryButton>
         </div>
     );
 }
