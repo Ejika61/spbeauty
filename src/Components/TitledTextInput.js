@@ -12,7 +12,7 @@ const Input = styled.input`
 `;
 
 function TitledTextInput({title, def}) {
-    const Title = title === caption ? 
+    const Title = title === undefined ? 
         (<div></div>) : 
         (<div>{title}</div>);
     return (
