@@ -4,6 +4,8 @@ import EditIcon from '../../../../../Icons/EditIcon';
 import RemoveIcon from '../../../../../Icons/RemoveIcon';
 import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';
 
+const Option = styled.div`
+`;
 
 function ListElement(props) {
     return (
