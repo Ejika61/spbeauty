@@ -12,7 +12,9 @@ function Addresses() {
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
             </div>
-            <SecondaryButton>Добавить филиал</SecondaryButton>
+            <div className='d-inline-flex flex-column'>   
+                <SecondaryButton>Добавить филиал</SecondaryButton>
+                </div>
         </div>
     );
 }
