@@ -5,6 +5,7 @@ import ListElement from "./ListElement";
 
 function Addresses() {
     return (
+        <span class="border border-#E2E8F0"></span>
         <div className='d-inline-flex flex-column gap-2 mt-4'>
             <div className='text-rg'>Адреса заведений</div>
             <div className='d-inline-flex flex-column gap-3'>
