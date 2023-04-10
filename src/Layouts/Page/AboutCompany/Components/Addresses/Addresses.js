@@ -3,7 +3,7 @@ import SecondaryButton from "../../../../../Components/SecondaryButton";
 import ListElement from "./ListElement";
 function Addresses() {
     return (
-        <div className='d-inline-flex flex-column gap-2 mt-4'>
+        <div className='d-inline-flex flex-column gap-2 mt-4 justify-content-between'>
             <span class="border border-#E2E8F0"></span>
             <div className='text-rg'>Адреса заведений</div>
             <div className='d-inline-flex flex-column gap-3'>
