@@ -8,7 +8,6 @@ function AboutCompany() {
             <div className='d-flex raw mt-5'>
                 <General/>  {/* Основная информация вроде названия, типа и телефона */}
                 <div className='col'></div>
-                <span class="border border-#E2E8F0"></span>
                 <Addresses/> {/* Список доступных адресов заведений */}
                 <div className='col'></div>
             </div>
