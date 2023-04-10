@@ -5,10 +5,10 @@ import ListElement from "./ListElement";
 
 function Addresses() {
     return (
-        <span class="border border-#E2E8F0"></span>
         <div className='d-inline-flex flex-column gap-2 mt-4'>
             <div className='text-rg'>Адреса заведений</div>
             <div className='d-inline-flex flex-column gap-3'>
+                <span class="border border-#E2E8F0"></span>
                 <ListElement>Санкт-Петербург, Невский пр-т. 28</ListElement>
                 <ListElement>Санкт-Петербург, Казанская ул, 7</ListElement>
             </div>
