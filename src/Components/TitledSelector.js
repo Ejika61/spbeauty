@@ -17,7 +17,7 @@ const Select = styled.select`
 `;
 
 function TitledSelector({title, options}) {
-    const Title = title === undefined ? 
+    const Title = title className='caption' == undefined ? 
         (<div></div>) : 
         (<div>{title}</div>);
     return (
